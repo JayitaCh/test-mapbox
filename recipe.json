@@ -1,0 +1,11 @@
+{
+    "version": 1,
+    "layers": {
+      "crime": {
+        "source": "mapbox://tileset-source/jayitach25/wy-lsoa-crimevis",
+        "minzoom": 0,
+        "maxzoom": 12
+      }
+    }
+  }
+  
